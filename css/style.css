@@ -3365,7 +3365,7 @@ label.error {
   background-color: #1ab394;
 }
 .toast-success {
-  background-color: #1ab394;
+  background-color: #FEE13E;
 }
 .toast-error {
   background-color: #ed5565;
@@ -8781,7 +8781,7 @@ body.rtls.top-navigation .footer.fixed {
 }
 /*
  *
- *   SKIN 1 - INSPINIA - Responsive Admin Theme
+ *   SKIN 1 
  *   NAME - Blue light
  *
 */
@@ -8887,8 +8887,8 @@ body.skin-1 {
 }
 /*
  *
- *   SKIN 2 - INSPINIA - Responsive Admin Theme
- *   NAME - Inspinia Ultra
+ *   SKIN 2
+ *   NAME - Carpens Ultra
  *
 */
 body.skin-2 {
@@ -9037,7 +9037,7 @@ body.skin-2 #wrapper {
 }
 /*
  *
- *   SKIN 3 - INSPINIA - Responsive Admin Theme
+ *   SKIN 3 
  *   NAME - Yellow/purple
  *
 */

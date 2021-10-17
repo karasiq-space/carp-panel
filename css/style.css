@@ -877,7 +877,7 @@ h5 {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus {
-  background-color: #07575B;
+  background-color: #57868c;
   color: white;
 }
 .nav .open > a,
@@ -1565,14 +1565,14 @@ button:focus {
 }
 .btn-primary {
   color: #fff;
-  background-color: #ff845c;
-  border-color: #ff845c;
+  background-color: #07575B;
+  border-color: #07575B;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus {
-  background-color: #ff7f49;
-  border-color: #ff7f49;
+  background-color: #66A5AD;
+  border-color: #66A5AD;
   color: #FFFFFF;
 }
 .btn-primary.disabled,
@@ -1959,7 +1959,7 @@ button.dim:active:before {
 }
 .label-primary,
 .badge-primary {
-  background-color: #1ab394;
+  background-color: #66A5AD;
   color: #FFFFFF;
 }
 .label-success,
@@ -1969,7 +1969,7 @@ button.dim:active:before {
 }
 .label-warning,
 .badge-warning {
-  background-color: #f8ac59;
+  background-color: #66A5AD;
   color: #FFFFFF;
 }
 .label-warning-light,
@@ -3208,7 +3208,7 @@ label.error {
   background-color: #1ab394;
 }
 .toast-success {
-  background-color: #FEE13E;
+  background-color: #09757a	;
 }
 .toast-error {
   background-color: #ed5565;
